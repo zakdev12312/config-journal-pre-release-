@@ -1,0 +1,18 @@
+input: .
+output: .retype
+
+url: 
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: config-journal
+  label: Docs
+
+links:
+- text: Docs		
+  link: /docs
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
